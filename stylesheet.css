@@ -99,6 +99,12 @@ h1 {
     margin: 0px;
 }
 
+.obrazeklewo {
+    float: left;
+    margin: 0px;
+}
+
+
 footer {
     padding: 1%;
     width:fit-content;
